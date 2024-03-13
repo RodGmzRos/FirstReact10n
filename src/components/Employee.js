@@ -14,6 +14,7 @@ function Employee(props){
                 </p>
                 </div>
                 <EditEmployee/>
+
             </div>
         </div>
 
